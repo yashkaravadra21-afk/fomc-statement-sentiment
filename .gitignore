@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+data/positive_words.csv
+data/negative_words.csv
